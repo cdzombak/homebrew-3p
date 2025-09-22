@@ -18,5 +18,9 @@ brew "<formula>"
 ## Available Software
 
 <!-- project_table_start -->
+
+| Software | Description | Install Command |
+| -------- | ----------- | -----------------|
 | [metar](https://github.com/RyuKojiro/metar) | Command-line METAR weather data tool | `brew install metar` |
+
 <!-- project_table_end -->
