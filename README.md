@@ -1,4 +1,6 @@
-# Cdzombak 3p
+# `@cdzombak/3p`
+
+Third-party software packaged for Homebrew by [@cdzombak](https://github.com/cdzombak).
 
 ## How do I install these formulae?
 
@@ -13,6 +15,7 @@ tap "cdzombak/3p"
 brew "<formula>"
 ```
 
-## Documentation
+## Available Software
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+<!-- project_table_start -->
+<!-- project_table_end -->
